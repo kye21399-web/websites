@@ -1,3 +1,4 @@
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 # Download
 
 [Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
